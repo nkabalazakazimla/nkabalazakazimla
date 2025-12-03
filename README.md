@@ -36,7 +36,6 @@ skills = {
     "scripting": ["Python 🐍"],
     "databases": ["SQL 🗄️"],
     "web_basics": ["HTML 🌐"],
-    "bi_tools": ["Workday BI 📊"],
     "comfort_zone": ["IT Support & Troubleshooting 🔧"]
 }
 ```
@@ -56,7 +55,6 @@ skills = {
 
 - 🐍 **Python** for automation and data analysis  
 - 📊 **SQL** for data querying and database magic  
-- 📈 **Workday BI** reports and dashboards  
 - 🧠 **Data Analytics** fundamentals  
 - 🎨 Making sense of data visualization  
 
@@ -68,27 +66,18 @@ skills = {
 
 ### 🚀 Projects I've Built
 
-#### 🎓 [Edu-Gen](link-to-repo)
+#### 🎓 [Edu-Gen](https://ai-edu-generator.vercel.app/)
 **AI-Powered Educational Content Generator**  
 An intelligent tool designed to help Grade 10–12 learners by generating high-quality educational materials including quizzes, study guides, and topic explanations. Because every learner deserves a personalized study buddy!
 
 ---
 
-#### 📄 [ResuMate](link-to-repo)
+#### 📄 [ResuMate](https://resumate-eight-tan.vercel.app/)
 **Smart Resume Builder**  
 Your AI-powered resume companion that helps create professional resumes quickly. Features intelligent content suggestions, job-fit analysis, and three sleek templates. Making job applications less painful, one resume at a time!
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![Kazimla's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazimla&show_icons=true&theme=rose_pine&hide_border=true&bg_color=1a1b27&title_color=c397d8&icon_color=b4a5d8&text_color=a9b1d6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazimla&layout=compact&theme=rose_pine&hide_border=true&bg_color=1a1b27&title_color=c397d8&text_color=a9b1d6)
-
-</div>
 
 ---
 
