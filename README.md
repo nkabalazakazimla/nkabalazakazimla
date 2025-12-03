@@ -90,12 +90,12 @@ Your AI-powered resume companion that helps create professional resumes quickly.
 
 <p align="left">
 
-  <!-- LinkedIn -->
+  <p align="left">
+
   <a href="https://www.linkedin.com/in/kazimla-nkabalaza-0b6440321" target="_blank">
     <img src="https://img.shields.io/badge/Let's%20Connect%20♡-FFC7D1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- Email -->
   <a href="mailto:nkabalazakazimla@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Send%20Me%20an%20Email%20✧-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
