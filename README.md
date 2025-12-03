@@ -44,7 +44,8 @@ skills = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workday-FF6C2C?style=for-the-badge&logo=workday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
 </div>
 
 ---
@@ -79,8 +80,6 @@ Your AI-powered resume companion that helps create professional resumes quickly.
 ---
 
 
----
-
 ### 💭 Philosophy
 
 > *"Started with Ctrl+Alt+Delete, now I'm here writing actual code. The journey from IT support to developer is just one long debugging session—and I'm here for it."*
@@ -90,9 +89,15 @@ Your AI-powered resume companion that helps create professional resumes quickly.
 ### 🤝 Let's Connect!
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazimla-nkabalaza-0b6440321/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkabalazakazimla@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/kazimla-nkabalaza-0b6440321/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:nkabalazakazimla@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
