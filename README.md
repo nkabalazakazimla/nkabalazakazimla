@@ -88,16 +88,16 @@ Your AI-powered resume companion that helps create professional resumes quickly.
 
 ### 🤝 Let's Connect!
 
-<div align="center">
 <p align="left">
   <a href="https://www.linkedin.com/in/kazimla-nkabalaza-0b6440321/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's%20Connect%20♡-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="mailto:nkabalazakazimla@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send%20Me%20an%20Email%20✉️-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 </div>
 
